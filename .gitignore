@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# 本地数据库（每人本地生成，不提交）
+stock_data.db
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# 系统与临时
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
