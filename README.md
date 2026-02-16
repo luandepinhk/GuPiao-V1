@@ -6,6 +6,8 @@ https://blog.csdn.net/starsky2006/article/details/5863426?utm_source=chatgpt.com
 https://blog.csdn.net/starsky2006/article/details/5863426?utm_source=chatgpt.com 
 https://blog.csdn.net/lh2273341049/article/details/145273996?utm_source=chatgpt.com 
 https://damodev.csdn.net/69250d913fd22d045343e476.html?utm_source=chatgpt.com 
+
+
 ●存储的数据（推荐入库）：公司代码：股票代码
 ●日K 原始数据：日期、开、高、低、收、成交额、成交量
 ●来源路径：导入时的 .day 文件路径（可选，用于 DB 无数据时回退读取）
